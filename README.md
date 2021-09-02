@@ -51,6 +51,16 @@ Introduce the following errors, one at a time, into the program from Activity 1.
 ## Activity 3 - PersonalBio
 ### Problem Description
 Write an application that prints, on separate lines, your name, your birthday, your hobbies, your favorite book, and your favorite movie.  Label each piece of information in the output.
+
+#### Sample Output:  
+
+```
+Name: Luke Hindman
+Birthday: December 22, 1980
+Hobbies:  Mountain Biking, Ham Radio, Reading
+Favorite Book: How can I choose?
+Favorite Movie:  Hackers
+```
 ### Impementation Guide
 1. Expand the folder named A3-PersonalBio and create a new file named PersonalBio.java
 2. Design a program to satisfy the requirements in the Problem Description and enter the program code in PersonalBio.java
